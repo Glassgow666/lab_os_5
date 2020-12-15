@@ -1,0 +1,11 @@
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.exe
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.deps.json
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.runtimeconfig.json
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.runtimeconfig.dev.json
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.dll
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\bin\Debug\netcoreapp3.1\OS_LAB_5.pdb
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\obj\Debug\netcoreapp3.1\OS_LAB_5.csprojAssemblyReference.cache
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\obj\Debug\netcoreapp3.1\OS_LAB_5.AssemblyInfoInputs.cache
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\obj\Debug\netcoreapp3.1\OS_LAB_5.AssemblyInfo.cs
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\obj\Debug\netcoreapp3.1\OS_LAB_5.dll
+C:\Users\PC_PBng\Desktop\OS_LAB_5\OS_LAB_5\obj\Debug\netcoreapp3.1\OS_LAB_5.pdb
